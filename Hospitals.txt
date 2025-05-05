@@ -1,0 +1,4 @@
+H01 Company_A Ali 1234567890 Bukit_Jalil 
+H02 Company_B Ahmad 0123456789 Sungai_Long 
+H03 Company_C Muthu 0987654321 Singapore 
+H04 Company_D Ah_Meng 0159478236 Langkawi 
